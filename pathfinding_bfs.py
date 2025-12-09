@@ -1,8 +1,5 @@
-"""
-BFS explores the grid level by level and finds the SHORTEST path
-when all walkable cells have the same cost (1).
-"""
-
+""" BFS explores the grid level by level and finds the SHORTEST path
+when all walkable cells have the same cost (1). """
 from collections import deque
 
 
